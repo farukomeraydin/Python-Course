@@ -1,0 +1,5 @@
+t = (10, 20, 'ali', 20, 40, 'veli')
+result = t.index('veli')
+print(result)
+result = t.count(20)
+print(result)
