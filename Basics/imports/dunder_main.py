@@ -12,7 +12,6 @@ result = util.isprime(101)
 print('prime' if result else 'not prime')
 
 
-
 #util.py
 import math
 
